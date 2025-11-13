@@ -1,0 +1,9 @@
+# Jardim Botânico
+
+O Jardim Botânico é um ecossistema complexo e dinâmico, centrado em seu acervo vivo de mudas e plantas. Cada espécie é deve ser catalogada, registrando sua espécie, a quantidade disponível e, suas necessidades vitais, como o tipo de solo, a frequência de rega e a exposição à luz. Essa base de conhecimento orienta todas as ações de manejo, que compõem a rotina de cuidados essenciais para a saúde da coleção. Cada procedimento, seja uma poda, adubação ou controle de pragas, é documentado, vinculando a ação ao profissional responsável e à planta que a recebeu.
+
+Além da conservação, o Jardim utiliza a sua comunidade e as atividades que oferece. Um cronograma central para organizar a vida da instituição, agendando desde os cuidados botânicos diários até eventos como, visitas e exposições. Esse calendário é o ponto de encontro de todos os envolvidos: o gestor, que coordena as operações; os funcionários, que executam as tarefas diárias; os voluntários; e os professores e alunos da UEPB.
+
+O relacionamento com o público externo é formalizado através de uma base de dados de clientes, que registra informações como nome, CPF, endereço e contato, permitindo uma comunicação direta e o acompanhamento do histórico de interações. Essa interação se aprofunda na área comercial, onde o Jardim Botânico se torna um fornecedor de insumos para outros amantes de plantas. As vendas de produtos, como adubos vendidos a peso ou em sacos, e de mudas do próprio acervo são registradas, conectando a atividade comercial diretamente à gestão do estoque. Além das vendas, as doações também são registradas.
+
+Finalmente, a instituição transcende seus muros por meio de projetos de extensão. Essas iniciativas, muitas vezes realizadas em parceria com universidades e outras organizações, reforçam a missão científica e educacional do Jardim, abrangendo pesquisa, conservação e engajamento comunitário.
