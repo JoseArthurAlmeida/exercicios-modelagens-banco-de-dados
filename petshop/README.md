@@ -15,8 +15,8 @@ Todos os profissionais do Pet Shop são cadastrados no sistema com suas especial
 
 O Pet Shop também realiza a venda de produtos como rações, brinquedos, roupas, medicamentos, coleiras e shampoos. Cada produto é cadastrado com nome, descrição, categoria, preço, fornecedor e quantidade em estoque. As vendas são registradas por cliente, com data, produtos adquiridos, quantidade e valor total.”
 
-**Esquema Conceitual**
+<h2>Esquema Conceitual</h2>
 <img src="petshop-conceitual.png">
 
-**Esquema Relacional**
+<h2>Esquema Relacional</h2>
 <img src="petshop-logico.png">
