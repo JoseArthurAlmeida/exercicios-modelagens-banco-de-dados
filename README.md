@@ -19,6 +19,7 @@ O principal objetivo deste repositório é:
 Os exercícios estão organizados por tópico ou por tipo de projeto. Cada pasta deve conter os artefatos relevantes para o exercício em questão.
 
 -   `petshop/`: Modelagem para um sistema de um petshop.
+-   `jardim-botanico/`: Modelagem para um sistema de um jardim botânico.
 
 ### Dentro de cada pasta de exercício:
 
