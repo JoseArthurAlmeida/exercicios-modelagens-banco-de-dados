@@ -14,3 +14,9 @@ O Pet Shop oferece diversos **serviços**, tais como: **Banho, Tosa higiênica o
 Todos os profissionais do Pet Shop são cadastrados no sistema com suas especializações (tosador, veterinário, adestrador, etc.), carga horária e disponibilidade por dia da semana.
 
 O Pet Shop também realiza a venda de produtos como rações, brinquedos, roupas, medicamentos, coleiras e shampoos. Cada produto é cadastrado com nome, descrição, categoria, preço, fornecedor e quantidade em estoque. As vendas são registradas por cliente, com data, produtos adquiridos, quantidade e valor total.”
+
+**Esquema Conceitual**
+<img src="petshop-conceitual.png">
+
+**Esquema Relacional**
+<img src="petshop-logico.png">
